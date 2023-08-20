@@ -1,4 +1,4 @@
-import globalEventListener from "./utils/globalEventListener";
+import globalEventListener from "./utils/globalEventListener.js";
 const tooltipContainer = document.createElement("div");
 tooltipContainer.classList.add("tooltip-container");
 document.body.appendChild(tooltipContainer);

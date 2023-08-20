@@ -1,4 +1,4 @@
-import './tooltip'
+import './tooltip.js'
 
 
 document.addEventListener("keydown", e => {
